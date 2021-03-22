@@ -7,7 +7,7 @@ namespace MediatorDesignPattern {
 
         [TestMethod]
         public void TestMethod1() {
-            
+
             // create the components
 
             var component1 = new Component1();

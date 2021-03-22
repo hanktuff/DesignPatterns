@@ -1,4 +1,5 @@
 ﻿namespace MediatorDesignPattern {
+
     public abstract class Component {
 
         protected IMediator Mediator;

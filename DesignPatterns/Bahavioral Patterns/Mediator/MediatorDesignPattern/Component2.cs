@@ -2,6 +2,7 @@
 using System.Diagnostics;
 
 namespace MediatorDesignPattern {
+
     public class Component2 : Component {
 
         public void DoSomething() {

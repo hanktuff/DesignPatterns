@@ -1,6 +1,7 @@
 ﻿using System.Diagnostics;
 
 namespace MediatorDesignPattern {
+
     public class Mediator : IMediator {
 
         private Component1 _component1;
@@ -16,7 +17,7 @@ namespace MediatorDesignPattern {
         }
 
         public void Notify(object sender, string message) {
-            
+
             if (message == "Something") {
 
                 Debug.WriteLine("Mediator reacts to Something.");
