@@ -58,6 +58,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "State", "State", "{88C9EB09
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateDesignPattern", "DesignPatterns\Bahavioral Patterns\State\StateDesignPattern\StateDesignPattern.csproj", "{D5FAE33F-8A3E-4396-AC4E-62A2D7CE720F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prototype", "Prototype", "{FF4E9939-7515-4BE2-B4DC-4319226BAFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPattern", "DesignPatterns\Creational Patterns\Prototype\PrototypeDesignPattern\PrototypeDesignPattern.csproj", "{12089DD0-2715-4678-8A38-9E275CBF7C20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,6 +112,10 @@ Global
 		{D5FAE33F-8A3E-4396-AC4E-62A2D7CE720F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5FAE33F-8A3E-4396-AC4E-62A2D7CE720F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5FAE33F-8A3E-4396-AC4E-62A2D7CE720F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -135,6 +143,8 @@ Global
 		{3A72DA24-B71E-4FD6-9867-2699A6F4F018} = {F79DA99A-4EB1-4766-B5B0-51C087686899}
 		{88C9EB09-CFFF-46C4-BCAA-37D73D5CE5B7} = {D272587D-26F9-4FDF-87B7-BB9D592A8F81}
 		{D5FAE33F-8A3E-4396-AC4E-62A2D7CE720F} = {88C9EB09-CFFF-46C4-BCAA-37D73D5CE5B7}
+		{FF4E9939-7515-4BE2-B4DC-4319226BAFF6} = {AAB4AA90-6EF5-4249-B137-0965CA7C41A5}
+		{12089DD0-2715-4678-8A38-9E275CBF7C20} = {FF4E9939-7515-4BE2-B4DC-4319226BAFF6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6A8D44A-172C-4B62-8045-F43FE26D1A7C}
