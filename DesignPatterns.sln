@@ -62,6 +62,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prototype", "Prototype", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDesignPattern", "DesignPatterns\Creational Patterns\Prototype\PrototypeDesignPattern\PrototypeDesignPattern.csproj", "{12089DD0-2715-4678-8A38-9E275CBF7C20}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iterator", "Iterator", "{06C5063A-C11A-425D-9254-40087E57EEB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorDesignPattern", "DesignPatterns\Bahavioral Patterns\Iterator\IteratorDesignPattern\IteratorDesignPattern.csproj", "{874DD65B-E42B-4766-9CD9-E8B8112469CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -116,6 +120,10 @@ Global
 		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12089DD0-2715-4678-8A38-9E275CBF7C20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874DD65B-E42B-4766-9CD9-E8B8112469CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874DD65B-E42B-4766-9CD9-E8B8112469CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874DD65B-E42B-4766-9CD9-E8B8112469CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874DD65B-E42B-4766-9CD9-E8B8112469CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -145,6 +153,8 @@ Global
 		{D5FAE33F-8A3E-4396-AC4E-62A2D7CE720F} = {88C9EB09-CFFF-46C4-BCAA-37D73D5CE5B7}
 		{FF4E9939-7515-4BE2-B4DC-4319226BAFF6} = {AAB4AA90-6EF5-4249-B137-0965CA7C41A5}
 		{12089DD0-2715-4678-8A38-9E275CBF7C20} = {FF4E9939-7515-4BE2-B4DC-4319226BAFF6}
+		{06C5063A-C11A-425D-9254-40087E57EEB5} = {D272587D-26F9-4FDF-87B7-BB9D592A8F81}
+		{874DD65B-E42B-4766-9CD9-E8B8112469CB} = {06C5063A-C11A-425D-9254-40087E57EEB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D6A8D44A-172C-4B62-8045-F43FE26D1A7C}
